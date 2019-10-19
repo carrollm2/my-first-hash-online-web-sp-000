@@ -1,10 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  my_hash = {}
-  my_hash["name"] = "Michael Carroll"
-  my_hash["age"] = "36"
-  my_hash["occupation"] = "financial analyst"
-
+  my_hash = {"name" => "Michael Carroll", "age" => 36, "occupation" => "financial analyst"}
 end
 
 
