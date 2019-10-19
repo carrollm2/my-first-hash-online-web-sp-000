@@ -3,7 +3,7 @@ def my_hash
   my_hash = {}
   my_hash["name"] = "Michael Carroll"
   my_hash["age"] = "36"
-  my_hash["occupation"] = "financial analyst"
+  #my_hash["occupation"] = "financial analyst"
 
 end
 
